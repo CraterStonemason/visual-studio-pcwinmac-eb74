@@ -1,4 +1,4 @@
-# 
+# Léger Visual Studio scripts pour Mac OS | Premium Visual Studio scripts pour PC Windows. Avec variables d'environnement et intégration Git — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
